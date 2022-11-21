@@ -1,0 +1,6 @@
+<load-on-startup>1</load-on-startup>
+
+<servlet-mapping>
+<servlet-name>dispatcher</servlet-name>
+<url-pattern>/spring/*</url-pattern>
+</servlet-mapping>
